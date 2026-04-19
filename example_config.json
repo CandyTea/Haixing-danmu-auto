@@ -1,0 +1,20 @@
+{
+  "url": "https://www.qlwshi.com/qiutx-news/app/chat/commonFilter/send",
+  "live_page_url": "https://www.qlwshi.com/live/9",
+  "auth": "Bearer YOUR_AUTHORIZATION_TOKEN",
+  "cookie": "deviceId=YOUR_DEVICE_ID; theme=light; userPartialMsg=...",
+  "sign": "YOUR_SIGN",
+  "device_id": "YOUR_DEVICE_ID",
+  "user_id": "YOUR_USER_ID",
+  "nickname": "YOUR_NICKNAME",
+  "chatroom_id": "YOUR_CHATROOM_ID",
+  "room_id": "9",
+  "message": "这里填写单条弹幕",
+  "send_mode": "single",
+  "long_text": "这里填写长文本，程序会按分段长度自动切分发送",
+  "segment_length": 5,
+  "loop_segments": true,
+  "use_random_suffix": false,
+  "use_invisible_chars": false,
+  "rate": 0.5
+}

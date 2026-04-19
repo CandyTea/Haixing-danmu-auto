@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Local runtime config
+config.json
+qlwshi_config.json
+qlwshi_cookie.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
